@@ -34,6 +34,8 @@ The dataset contains the following fields:
 - **Coffee Type:** The type of coffee (e.g., Arabica, Robusta).
 - **Roast Type:** The roasting level of the coffee (e.g., Light, Medium).
 - **Size:** The weight of the coffee in kilograms (e.g., 0.2 kg, 1 kg).
+  ![Screenshot 2024-10-17 015745](https://github.com/user-attachments/assets/aed06c1f-c70f-4136-ba61-58f9ef3221e2)
+
 
 ## KPIs
 Key Performance Indicators (KPIs) tracked in this project include:
@@ -62,6 +64,15 @@ An interactive dashboard was built to display the results of the analysis using:
 - **Slicers & Timeline:** Allowed users to filter and drill down on data by categories such as date range, product type, and more.
 - **Graphical Representations:** Created visually appealing graphs (bar charts, line graphs, etc.) to showcase trends.
 - **Interactivity:** Connected slicers and graphs to make the dashboard fully interactive for dynamic insights.
+
+  ![Screenshot 2024-10-17 015555](https://github.com/user-attachments/assets/f983d10d-aad7-470a-9284-aee84bfff48c)
+  ![Screenshot 2024-10-17 015614](https://github.com/user-attachments/assets/30518065-bf6b-453b-975a-a6245425901d)
+  ![Screenshot 2024-10-17 015643](https://github.com/user-attachments/assets/1cb96120-70ef-4d5b-aa46-ee561565d556)
+  ![Screenshot 2024-10-17 015703](https://github.com/user-attachments/assets/c26df079-bf0d-4f35-8199-aee4d7f99840)
+
+
+
+
 
 ## Limitations
 The analysis had some limitations, including:
